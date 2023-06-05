@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ops Device Approval (APX and I-REC)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acf32ebf-2ffd-4e7b-8ae0-e6db8172e0fc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1004e29-d42f-4547-8074-167d0ba8a6cf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>500</defaultValue>
+      <description></description>
+      <id>d1004e29-d42f-4547-8074-167d0ba8a6cf</id>
+      <masked>false</masked>
+      <name>extra</name>
+   </variable>
+</TestCaseEntity>

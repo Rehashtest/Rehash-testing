@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Client Device Registration Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7b9edde6-0a60-4cbd-83a0-f9509853af61</testSuiteGuid>
+   <testCaseLink>
+      <guid>1f8995dd-cb45-4525-8749-635dd568d243</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Asset Registration REHash/Asset Registration Split (Login)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21c0f9da-dfaa-4d26-9352-7d67a8685a56</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>a840d9ab-88b7-4ce6-907c-f618ddd8fdf2</id>
+         <masked>false</masked>
+         <name>State</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Asset Registration REHash/Asset Registration Split (Registration)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>add083d2-62f6-47ac-85ec-b00f44c440e6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/APX I-REC Data IREC First</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Device Name</value>
+         <variableId>cf128c1e-f5b6-4788-a38e-dc0e2fc4d359</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nameplate capacity</value>
+         <variableId>7f04606f-d707-4945-8f05-3c8d4e707795</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Fuel Type</value>
+         <variableId>14bda896-bc7d-4860-b53e-ec6d2311d75a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Device Technology</value>
+         <variableId>ff4df968-7b79-4454-8a7a-8fe713f7596d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Commission date</value>
+         <variableId>c381707a-136a-496c-929a-6cb43621a2d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Effective Registration Date</value>
+         <variableId>262e35b4-7f51-41dd-97cf-468615a77d89</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Address</value>
+         <variableId>b7ed0e62-5c4f-450b-b2dd-366ac39b0510</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Province</value>
+         <variableId>a840d9ab-88b7-4ce6-907c-f618ddd8fdf2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Country</value>
+         <variableId>c865f6bd-ff3d-415c-b72a-70e42da3cf8c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Latitude</value>
+         <variableId>e5b5fd8c-02fc-4407-9072-a4d82e7ec60c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Longitude</value>
+         <variableId>ade1bb32-34d2-4569-98e1-e355039983aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>add083d2-62f6-47ac-85ec-b00f44c440e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Registry</value>
+         <variableId>3e904fd4-799a-4a9e-a402-470bf3dc58bf</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7b70d153-8fc8-4b06-b054-dd5544598035</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>46a812a4-2288-4cdb-966a-1f4c1f0cf7c9</id>
+         <masked>false</masked>
+         <name>State</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Asset Registration REHash/Asset Registration (APX and IREC)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>678e994e-e193-4940-b72e-591112d58912</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/APX I-REC Data IREC First</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Fuel Type</value>
+         <variableId>d3a9dbf7-8909-4148-8bb2-06d4071165db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Device Name</value>
+         <variableId>17d1ddcf-0c76-4ecb-b42a-7656bf7499fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Device Technology</value>
+         <variableId>3c558771-ecbf-44b3-a3ea-51942d66e431</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Country</value>
+         <variableId>21b7b225-60ea-48bb-af1d-c31665a498c4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Province</value>
+         <variableId>46a812a4-2288-4cdb-966a-1f4c1f0cf7c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nameplate capacity</value>
+         <variableId>83cf6fd3-ab41-4dad-b80a-4702d4f54e7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Commission date</value>
+         <variableId>38c8957a-104b-434a-b58b-de6b1a584357</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Effective Registration Date</value>
+         <variableId>ceb309c0-2a78-49cd-b35b-fb73fe72051d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Latitude</value>
+         <variableId>b70a3bc1-5793-4da0-b38e-073eb2051ea6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Longitude</value>
+         <variableId>3d24f2ef-c3fc-4ef8-83d4-a5df2abe1ef6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Address</value>
+         <variableId>fc8e85e8-cd66-46d9-81c8-4b01a6dedd8c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>678e994e-e193-4940-b72e-591112d58912</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Registry</value>
+         <variableId>8aeb5d1c-7bfd-4fd2-9731-972f2674e80c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

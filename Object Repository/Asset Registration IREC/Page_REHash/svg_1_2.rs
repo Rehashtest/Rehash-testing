@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1_2</name>
+   <tag></tag>
+   <elementGuidId>cbf824e4-31ca-4569-8bfd-b9d1e2b653c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-select-responsive.input-field__indicator.field-select-responsive.input-field__dropdown-indicator.css-vgijm8-indicatorContainer > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4034fbdb-3c02-43dc-a650-a97d0ac39a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>ce746dc3-4b58-4c64-ad25-704f3dd62466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>7c77c038-1a94-47a0-8cf0-85b45371078b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>41900a48-5db6-4912-9d8f-a1040a7cdc96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 320 512</value>
+      <webElementGuid>ebdf9b88-721b-4b6c-8c09-e2ad02227bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;flex flex-col justify-center items-center&quot;]/div[@class=&quot;mt-8 w-5/12&quot;]/form[1]/div[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/fieldset[2]/div[@class=&quot;jCXzE&quot;]/div[@class=&quot;m7FGD css-b62m3t-container&quot;]/div[@class=&quot;field-select-responsive input-field__control field-select-responsive input-field__control--is-focused field-select-responsive input-field__control--menu-is-open css-19ghioa-control&quot;]/div[@class=&quot;field-select-responsive input-field__indicators css-1wy0on6&quot;]/div[@class=&quot;field-select-responsive input-field__indicator field-select-responsive input-field__dropdown-indicator css-vgijm8-indicatorContainer&quot;]/svg[1]</value>
+      <webElementGuid>376feccd-8ce6-4029-9f10-5ec0851bfb2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b9fec5e9-16e4-4736-9f33-bf0c4576b4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>824193de-c6de-4180-92cd-d6321d7f22fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PV Ground mounted'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f9b2f36f-d1fe-4449-8119-d560fa7714ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PV Floating'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>558b1326-f329-43d7-b7e9-b0f063901672</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

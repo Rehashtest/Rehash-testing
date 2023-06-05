@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transaction</name>
+   <tag></tag>
+   <elementGuidId>2d236a94-f752-42f8-ad53-249e0360fd3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/ul/li[6]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6) > div.mF6ku > span.u8Yrg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4f1d6140-63fe-451f-9e1e-ea5ccce329e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u8Yrg</value>
+      <webElementGuid>a262a190-5d09-4133-bbc7-62f9b8b73d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction</value>
+      <webElementGuid>22b79a92-ddb1-40fc-97fa-1c57f8c92d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/div[@class=&quot;O-Bpx mt-4 pt-2&quot;]/div[@class=&quot;_2NTLc JQdNt padding-footer&quot;]/ul[@class=&quot;w-full mt-8&quot;]/li[6]/div[@class=&quot;mF6ku&quot;]/span[@class=&quot;u8Yrg&quot;]</value>
+      <webElementGuid>f7589895-3948-4de0-80d4-3191ca894082</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/ul/li[6]/div/span</value>
+      <webElementGuid>2f51dd8e-5036-4e7d-894f-87bea843bd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::span[1]</value>
+      <webElementGuid>f931de25-6bf5-48c7-9e12-a11309f06c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC'])[1]/following::span[2]</value>
+      <webElementGuid>0ed41aec-547f-4d86-9413-339d358f3d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Receivable'])[1]/preceding::span[1]</value>
+      <webElementGuid>20d31474-7c46-4405-b163-160ccb05a660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Payable'])[1]/preceding::span[1]</value>
+      <webElementGuid>2433a34f-dc8c-48f7-923b-f4bd941fa891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaction']/parent::*</value>
+      <webElementGuid>d09ae671-314f-46fe-8011-c3740371172e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/span</value>
+      <webElementGuid>a7550837-e31c-4858-a538-5228ad0cf8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Transaction' or . = 'Transaction')]</value>
+      <webElementGuid>de45c791-5ff0-494d-9c3b-d037c5025639</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

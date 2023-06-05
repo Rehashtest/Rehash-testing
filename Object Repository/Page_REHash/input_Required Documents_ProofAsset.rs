@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Required Documents_ProofAsset</name>
+   <tag></tag>
+   <elementGuidId>13fbe087-53d7-4ff7-8d16-3eb615e3f1e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/main/section/div/div[2]/section[1]/div[2]/form/div[1]/div[1]/div[1]/div/div/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.NbwoZ</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;m-auto w-1/2 mt-4 relative&quot;]/div[@class=&quot;mt-8&quot;]/section[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4 gap-4&quot;]/form[@class=&quot;grid grid-cols-12 row-gap-4&quot;]/div[@class=&quot;col-span-4&quot;]/div[@class=&quot;jrJtz&quot;]/div[@class=&quot;oV-tI&quot;]/div[@class=&quot;mYUV1&quot;]/div[@class=&quot;kyuif&quot;]/div[@class=&quot;ZiU5C&quot;]/div[@class=&quot;KdyKo flex flex-col items-center&quot;]/input[@class=&quot;NbwoZ&quot;][count(. | //*[@type = 'file']) = count(//*[@type = 'file'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>70109af8-3b3b-4d4e-8c0e-d9dd7a648f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NbwoZ</value>
+      <webElementGuid>c9c4223a-3211-420d-94c2-927c77ef668c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>257c1e09-034b-47f8-be7a-fbd3da443ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>.pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .jpg, .jpeg, .png</value>
+      <webElementGuid>91a82624-a20e-475c-88d6-3d7650b36d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;m-auto w-1/2 mt-4 relative&quot;]/div[@class=&quot;mt-8&quot;]/section[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4 gap-4&quot;]/form[@class=&quot;grid grid-cols-12 row-gap-4&quot;]/div[@class=&quot;col-span-4&quot;]/div[@class=&quot;jrJtz&quot;]/div[@class=&quot;oV-tI&quot;]/div[@class=&quot;mYUV1&quot;]/div[@class=&quot;kyuif&quot;]/div[@class=&quot;ZiU5C&quot;]/div[@class=&quot;KdyKo flex flex-col items-center&quot;]/input[@class=&quot;NbwoZ&quot;]</value>
+      <webElementGuid>58bd3f8a-3c4f-419a-8371-7695ac61d368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='file']</value>
+      <webElementGuid>c48629b0-72f4-4747-bd36-f703a9233685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div[2]/section/div[2]/form/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>0342f6dd-c1ff-4139-b2dd-b8681adc7697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>ad874eb3-3e7d-4627-a363-e1ff80c9d452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>d8a554fe-b0c0-4711-8054-8acaec59e118</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

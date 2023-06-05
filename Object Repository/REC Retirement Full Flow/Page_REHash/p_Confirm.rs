@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Confirm</name>
+   <tag></tag>
+   <elementGuidId>69a3d105-8818-4e43-b6d2-96e4e80ed670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning!'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.rehash-ui-legacy-button__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4e20f2f1-fed5-4abc-b5ec-9991106afa0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-legacy-button__content</value>
+      <webElementGuid>9cd121b0-9e89-4c63-bb62-7afa1d7dd5d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>d4aa32ac-8c23-412b-9e5b-c13be3c95fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/reach-portal[5]/div[2]/div[1]/div[1]/div[@class=&quot;GXjm0&quot;]/div[2]/div[@class=&quot;vej--&quot;]/div[2]/div[@class=&quot;l-R-g&quot;]/button[@class=&quot;rehash-ui-legacy-button rehash-ui-legacy-button__primary&quot;]/p[@class=&quot;rehash-ui-legacy-button__content&quot;]</value>
+      <webElementGuid>a33d4ef4-ca4e-457f-89dc-f36057edf49a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning!'])[1]/following::p[1]</value>
+      <webElementGuid>9d025de9-cace-408a-b8dc-b0eda9e6f1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[1]</value>
+      <webElementGuid>44c749d6-0b2a-4cf5-ba17-f9bd8b8d2a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
+      <webElementGuid>d3e65203-a481-47fc-a153-a74a948e69c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/p</value>
+      <webElementGuid>d864684d-3c74-4560-8fdf-442994e674df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>2ae8afe5-ef26-4654-bfc7-8f20de15e0be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

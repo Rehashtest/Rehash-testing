@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Singapore_field-select-responsive input_2c975d_1</name>
+   <tag></tag>
+   <elementGuidId>8262853b-f7bc-475f-8de3-0ef8df1c4843</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/form/div/div/div/fieldset[2]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-select-responsive.input-field__input-container.css-ackcql</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9de302a-8654-48a1-8f60-16ec95ee64df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-select-responsive input-field__input-container css-ackcql</value>
+      <webElementGuid>5bf116db-912b-4912-8955-516ecf4bd5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;flex flex-col justify-center items-center&quot;]/div[@class=&quot;mt-8 w-5/12&quot;]/form[1]/div[1]/div[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4&quot;]/fieldset[2]/div[@class=&quot;jCXzE&quot;]/div[@class=&quot;m7FGD css-b62m3t-container&quot;]/div[@class=&quot;field-select-responsive input-field__control field-select-responsive input-field__control--is-focused css-kcsm38-control&quot;]/div[@class=&quot;field-select-responsive input-field__value-container field-select-responsive input-field__value-container--has-value css-1ppizev&quot;]/div[@class=&quot;field-select-responsive input-field__input-container css-ackcql&quot;]</value>
+      <webElementGuid>5f893347-0859-4e8f-a32b-6ba37db1ea51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div[2]/form/div/div/div/fieldset[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>82d9f3ae-f150-4501-8b37-234c3eb676c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[1]/following::div[1]</value>
+      <webElementGuid>3a4d8081-9c7f-4a8e-b076-a0dd39714cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select is focused ,type to refine list, press Down to open the menu,'])[1]/following::div[4]</value>
+      <webElementGuid>5c2ea3e1-11f7-47fe-8b57-f76798fb4d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::div[3]</value>
+      <webElementGuid>09be6ea3-b854-476c-86df-724027a44d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>91ca78e8-19f3-4a67-b0a9-ddb27fa4da7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

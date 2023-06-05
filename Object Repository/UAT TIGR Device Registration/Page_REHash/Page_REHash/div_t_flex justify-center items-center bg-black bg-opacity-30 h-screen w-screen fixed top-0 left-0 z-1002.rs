@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_t_flex justify-center items-center bg-black bg-opacity-30 h-screen w-screen fixed top-0 left-0 z-1002</name>
+   <tag></tag>
+   <elementGuidId>4e32b35d-6892-4e3f-9d10-1795e50a1af8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-center.items-center.bg-black.bg-opacity-30.h-screen.w-screen.fixed.top-0.left-0.z-1002</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4631f2c2-ac38-4b07-98de-979c63f22861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center bg-black bg-opacity-30 h-screen w-screen fixed top-0 left-0 z-1002</value>
+      <webElementGuid>b1799fe6-c627-4321-9ffb-a4cd8abe5454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;m-auto w-1/2 mt-4 relative&quot;]/div[@class=&quot;flex justify-center items-center bg-black bg-opacity-30 h-screen w-screen fixed top-0 left-0 z-1002&quot;]</value>
+      <webElementGuid>673ac8f3-d53d-4c99-ac97-117987966ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div</value>
+      <webElementGuid>cb2a0b14-0574-4c4a-99c3-795bdb89b0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='t'])[1]/following::div[2]</value>
+      <webElementGuid>df3c9b50-308a-465c-a4c9-7dd9e9c24726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SBI'])[1]/following::div[5]</value>
+      <webElementGuid>e1959de1-38bc-45f5-8a3d-bc7db04e314a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::div[2]</value>
+      <webElementGuid>ba8ffe31-ec31-409d-a959-23d4fb2bdac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::div[3]</value>
+      <webElementGuid>a0f1af85-7a45-4257-a7fe-46dc77334b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div</value>
+      <webElementGuid>9b18d9c6-4094-4ca8-a62d-13454aaba2b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

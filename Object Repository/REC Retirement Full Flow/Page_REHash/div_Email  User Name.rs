@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email  User Name</name>
+   <tag></tag>
+   <elementGuidId>c08ca503-3114-423a-aff8-dbb44f32fe4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/form/fieldset/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rehash-ui-input__container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd86aabc-e7c0-427a-a8a7-cbe73817c882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-input__container</value>
+      <webElementGuid>3dea7ed7-1aef-4fa2-88e8-afc74fccfec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email / User Name</value>
+      <webElementGuid>8be57943-1cff-4439-a89f-7cafc6cc2ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;grid grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col justify-between items-center bg-white padding-footer&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-full&quot;]/form[@class=&quot;w-full px-4 xl:px-0 xl:w-2/3 mb-12&quot;]/fieldset[@class=&quot;relative mb-3&quot;]/div[@class=&quot;rehash-ui-input&quot;]/div[@class=&quot;rehash-ui-input__container&quot;]</value>
+      <webElementGuid>4c4c79d4-037d-4729-8126-2b2d6a7b0f96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/form/fieldset/div/div</value>
+      <webElementGuid>aaeab859-4d67-4cc7-9243-32de1c6d5b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to'])[1]/following::div[3]</value>
+      <webElementGuid>7ee2cfa3-9f73-43d5-95a7-5bc20cae78c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>82fddaa5-2a22-45d2-8097-a7416fd75ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div</value>
+      <webElementGuid>b36e556a-53c1-4960-b6f4-f4952677b412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email / User Name' or . = 'Email / User Name')]</value>
+      <webElementGuid>cbb0b4c9-15e5-44f4-855e-650bed22ba8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

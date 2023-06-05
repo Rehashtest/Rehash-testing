@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_REC Retirement (2)</name>
+   <tag></tag>
+   <elementGuidId>e859c7d0-51f5-4fbb-a647-b2fbbd4dea28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/ul/li[3]/div/div/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a._5YcdN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fbe04d51-6ffb-42d4-85d4-272e38649472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_5YcdN</value>
+      <webElementGuid>4182de7b-73f8-43f6-835b-53e4a35656f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/rec-retirements</value>
+      <webElementGuid>9649e5fe-47ee-4664-99f8-3e9f5024796b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REC Retirement</value>
+      <webElementGuid>df8cf7b6-c1fa-4619-ab1d-2470568f6a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;as0Kr&quot;]/div[@class=&quot;_2o6Ag&quot;]/div[@class=&quot;_1WbnP&quot;]/ul[@class=&quot;w-full mt-4&quot;]/li[3]/div[@class=&quot;w-full&quot;]/div[@class=&quot;p-4 border-t-2&quot;]/ul[@class=&quot;ErF7Y _5Xp9e&quot;]/li[4]/a[@class=&quot;_5YcdN&quot;]</value>
+      <webElementGuid>355a4ce9-9c3e-439a-a7e2-f0df1a49e83b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/ul/li[3]/div/div/ul/li[4]/a</value>
+      <webElementGuid>dc04766e-31b0-4456-9c24-e4435c76fec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'REC Retirement')]</value>
+      <webElementGuid>c54f4afc-2d38-47d7-8c5a-dd178d397238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC Imports'])[1]/following::a[1]</value>
+      <webElementGuid>bb9e4b0c-8b1a-41d7-b27d-0749d772d620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC Registration'])[1]/following::a[2]</value>
+      <webElementGuid>d8298409-c61a-403a-a9b1-8dee9e25674c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory'])[1]/preceding::a[1]</value>
+      <webElementGuid>8e954e3d-546a-4bcc-a28d-9eb3f44e799c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset'])[1]/preceding::a[1]</value>
+      <webElementGuid>11d3e39f-9fd7-4064-9f17-03da7ad66768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REC Retirement']/parent::*</value>
+      <webElementGuid>446a7a4a-f3cd-4c52-bc35-9f8f0abc6c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/rec-retirements')]</value>
+      <webElementGuid>7a2fe2f3-754d-4ff6-af3e-64e7f9005616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>357bc559-250b-43e3-8495-1c09efe84ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/rec-retirements' and (text() = 'REC Retirement' or . = 'REC Retirement')]</value>
+      <webElementGuid>32e59642-e715-4337-a96c-9cb02a7583d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

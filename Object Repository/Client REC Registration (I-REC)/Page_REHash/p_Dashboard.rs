@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>ec6f4508-7330-4569-b319-c529b03eaba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div/div/button[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.rehash-ui-legacy-button.rehash-ui-legacy-button__primary > p.rehash-ui-legacy-button__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3386da19-c879-416b-8ece-0777a758c8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-legacy-button__content</value>
+      <webElementGuid>5fe8fecc-9ba6-4d24-8b8e-72731d81a00a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>b73b4de4-4cea-471e-b894-e387ee25b387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;XZnl2&quot;]/div[@class=&quot;flex flex-col justify-between items-center&quot;]/div[@class=&quot;flex mt-8 gap-4&quot;]/button[@class=&quot;rehash-ui-legacy-button rehash-ui-legacy-button__primary&quot;]/p[@class=&quot;rehash-ui-legacy-button__content&quot;]</value>
+      <webElementGuid>6b53c032-9366-406d-b187-90c66da1cb3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div/div/button[2]/p</value>
+      <webElementGuid>da25dbb0-c413-4810-a1c8-671fa2a83626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='t'])[1]/following::p[4]</value>
+      <webElementGuid>29a1f438-852b-41aa-815e-94f27ee26a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Company'])[1]/following::p[5]</value>
+      <webElementGuid>adb5ef0f-9858-469e-8a9a-c7fcbfb1ee12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[4]</value>
+      <webElementGuid>6374431f-932b-46fb-aa70-03bf20d82009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::p[4]</value>
+      <webElementGuid>4edef90d-7881-44b6-a615-d00a9d9a33e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>0b384ccb-0b2d-4f5e-ac86-8984b63a1185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/p</value>
+      <webElementGuid>af228741-17db-475c-83b9-30e2bac18e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>3c46230a-d3dd-41cd-ad2b-120cbf976548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

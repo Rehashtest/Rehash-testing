@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Submit</name>
+   <tag></tag>
+   <elementGuidId>22ba788d-6de7-4092-a590-2beebdda352a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div[2]/section[2]/div[2]/section/div/div/div/button[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-success.rehash-ui-button.rehash-ui-button__default > p.rehash-ui-button__content.color-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a494e557-9caa-4b13-9b7f-569148278786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-button__content color-white</value>
+      <webElementGuid>f04f5729-9515-49e2-b6da-05a023b107a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>a8069eb5-d115-41d0-b3fe-d06dd3b17f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;mt-4 mx-6&quot;]/div[@class=&quot;grid grid-cols-12 md:gap-5 lg:gap-8&quot;]/div[@class=&quot;col-span-3 flex flex-col gap-4&quot;]/section[@class=&quot;border-shadow-container bg-white flex flex-col p-4 gap-2 shadow-container&quot;]/div[@class=&quot;border-t-2 pt-2&quot;]/section[@class=&quot;hUwk- relative&quot;]/div[@class=&quot;JrXVl&quot;]/div[1]/div[@class=&quot;DMIsK&quot;]/button[@class=&quot;bg-success rehash-ui-button rehash-ui-button__default&quot;]/p[@class=&quot;rehash-ui-button__content color-white&quot;]</value>
+      <webElementGuid>3c77a695-b115-4047-ae87-b966479c7bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div[2]/section[2]/div[2]/section/div/div/div/button[3]/p</value>
+      <webElementGuid>10797914-d792-42cb-9f02-301edeed6871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::p[3]</value>
+      <webElementGuid>ba9f7e03-7cf7-4681-b774-164a5261c932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::p[4]</value>
+      <webElementGuid>1294f9e4-ae8a-4ae7-bbe4-2e4d4b4950f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark History'])[1]/preceding::p[2]</value>
+      <webElementGuid>6e0c50dc-00ae-4c1a-be05-55b2a3b95715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No comment yet'])[1]/preceding::p[2]</value>
+      <webElementGuid>caab6071-4d2d-4b82-8fb0-c0962875d7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>435a4562-92c2-4dfa-a9ed-197ee20f79e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/p</value>
+      <webElementGuid>d8bc3b5f-c924-4d17-9b7c-7902a271582a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>976c8fef-e15c-4a9e-ada7-25aa6a1d7384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

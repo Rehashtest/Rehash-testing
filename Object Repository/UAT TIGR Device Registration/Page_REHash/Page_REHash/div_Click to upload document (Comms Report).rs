@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click to upload document (Comms Report)</name>
+   <tag></tag>
+   <elementGuidId>c23b0763-d0df-40e1-9b5d-74d63f533991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/section/div[2]/form/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e747d458-531d-44b4-9307-66c8792a8054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mYUV1</value>
+      <webElementGuid>7930777b-df76-4fbc-ba4e-a4db1703276a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload document</value>
+      <webElementGuid>86ee2ff8-018e-43b4-b4e4-d37793a8a817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;m-auto w-1/2 mt-4 relative&quot;]/div[@class=&quot;mt-8&quot;]/section[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4 gap-4&quot;]/form[@class=&quot;grid grid-cols-12 row-gap-4&quot;]/div[@class=&quot;col-span-4&quot;]/div[@class=&quot;jrJtz&quot;]/div[@class=&quot;oV-tI&quot;]/div[@class=&quot;mYUV1&quot;]</value>
+      <webElementGuid>c20f2a6b-9c67-49a2-9113-7a82367ed33b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div[2]/section/div[2]/form/div[3]/div/div/div</value>
+      <webElementGuid>3414358a-749f-487a-9700-954dfc177bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Download Sample)'])[2]/following::div[5]</value>
+      <webElementGuid>368682ff-89a2-4473-82cd-0a32944a3f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Download Sample)'])[1]/following::div[20]</value>
+      <webElementGuid>8d9b9152-afe8-46cc-9daa-2085b77a3d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Download Sample)'])[3]/preceding::div[8]</value>
+      <webElementGuid>7d9b6a87-f2be-4d17-af5b-80dc4aed3117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Download Sample)'])[4]/preceding::div[22]</value>
+      <webElementGuid>6c6ec41f-2920-4583-a288-6f20b87994c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div/div/div</value>
+      <webElementGuid>47e6cd79-863b-49ee-9ad4-33d5dae2cd03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click to upload document' or . = 'Click to upload document')]</value>
+      <webElementGuid>c20a3942-43bf-44ef-bf67-6005065c5921</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

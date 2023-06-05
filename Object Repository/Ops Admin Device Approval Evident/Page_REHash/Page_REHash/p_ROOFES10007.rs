@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ROOFES10007</name>
+   <tag></tag>
+   <elementGuidId>5e4f886f-6dc7-4c70-9bcb-b09f654c9418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/form/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex-1 > div.f9k3F > p.break-words.We24G</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d2f92535-3cc1-4d74-9948-682aadb5a4bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>break-words We24G</value>
+      <webElementGuid>5d8b66d7-2ccc-46e7-bb6b-0690da8dd860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ROOFES10007</value>
+      <webElementGuid>8cc16d47-4e60-4030-bd2d-3727bf55a8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;mt-4 mx-6&quot;]/div[@class=&quot;grid grid-cols-12 md:gap-5 lg:gap-8&quot;]/div[@class=&quot;col-span-9 flex flex-col gap-4&quot;]/div[@class=&quot;rehash-ui-card&quot;]/div[@class=&quot;py-4&quot;]/form[1]/div[@class=&quot;flex justify-between gap-3&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;f9k3F&quot;]/p[@class=&quot;break-words We24G&quot;]</value>
+      <webElementGuid>96f445ba-ae1b-4236-bb28-862b84632c2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/form/div/div[2]/div/p</value>
+      <webElementGuid>c430a3d4-3812-4471-9d26-c2af0e1c0fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registry ID'])[1]/following::p[1]</value>
+      <webElementGuid>b039c5cf-e8ae-439f-a1f4-5d75edf2d8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Code'])[1]/following::p[2]</value>
+      <webElementGuid>c1976ca8-f7bc-481e-a1e0-0b9ce6694e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::p[1]</value>
+      <webElementGuid>f6ba0414-0250-4a30-bc16-f23ac7a65768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Relevant Documents'])[1]/preceding::p[1]</value>
+      <webElementGuid>aa74d721-8ff5-41f2-b6df-d1fe4616a78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ROOFES10007']/parent::*</value>
+      <webElementGuid>f2a24f94-9b7c-4bba-9dbe-292dfb0bed1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>20470744-ca1d-44ae-91be-083f67bf998a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ROOFES10007' or . = 'ROOFES10007')]</value>
+      <webElementGuid>7b623ffd-b6b4-4d68-b9ca-50af2cb70d9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sign In</name>
+   <tag></tag>
+   <elementGuidId>0f7e21d2-d09f-4d98-b64a-14067beed492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.rehash-ui-button__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/form/fieldset[4]/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>acd4d960-5914-4f09-aa95-0258e23fe80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-button__content</value>
+      <webElementGuid>7a06e256-cc5b-4c10-bcb4-229bd835ae5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>f080198f-d0b8-43b5-b0cf-620c5828da06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;grid grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col justify-between items-center bg-white padding-footer&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-full&quot;]/form[@class=&quot;w-full px-4 xl:px-0 xl:w-2/3 mb-12&quot;]/fieldset[@class=&quot;flex justify-center&quot;]/button[@class=&quot;w-full rehash-ui-button rehash-ui-button__primary&quot;]/p[@class=&quot;rehash-ui-button__content&quot;]</value>
+      <webElementGuid>5f3ed6d8-3097-4380-8196-966eb3a6ff42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/form/fieldset[4]/button/p</value>
+      <webElementGuid>66f01e09-93db-4806-a415-edb25cfb7b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::p[1]</value>
+      <webElementGuid>3b35937e-42c0-4919-b37b-ec6f3efd993c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::p[1]</value>
+      <webElementGuid>3c040a0c-0115-4231-b9fc-fd80b3a263b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::p[1]</value>
+      <webElementGuid>da1b45ab-0116-4f63-bbb0-0e383a51dd48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[2]/preceding::p[5]</value>
+      <webElementGuid>cc831d4d-6dd0-4411-b2d6-9cc4a53d0899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>a28ec002-b6a7-458a-b1a0-8396dfc31789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>5fe2fc6b-d495-4608-add1-7cdb10369909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>97a66eeb-8636-4d56-aedf-8e7b040a3c83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

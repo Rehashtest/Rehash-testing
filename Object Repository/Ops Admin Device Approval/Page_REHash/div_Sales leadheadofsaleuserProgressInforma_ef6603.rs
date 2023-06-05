@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales leadheadofsaleuserProgressInforma_ef6603</name>
+   <tag></tag>
+   <elementGuidId>70b8bf88-cabe-42ae-a1de-4e97ccb5f4c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-span-3.flex.flex-col.gap-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaab70b9-7a9d-4eb7-adb0-ff4c336ab974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-span-3 flex flex-col gap-4</value>
+      <webElementGuid>f72d4f92-6ed5-43dc-be25-4e127ae41177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales leadheadofsaleuserProgressInformation CorrectDocuments are validAggregated DeviceStatusNewActionReturnAmendSubmitRejectRemark HistoryNo comment yet</value>
+      <webElementGuid>468b8c16-6497-45e2-85da-f4c1a6b54a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;mt-4 mx-6&quot;]/div[@class=&quot;grid grid-cols-12 md:gap-5 lg:gap-8&quot;]/div[@class=&quot;col-span-3 flex flex-col gap-4&quot;]</value>
+      <webElementGuid>bf7e4124-c38c-456d-a596-5ce3226deb35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div[2]</value>
+      <webElementGuid>3a62dc85-eee7-4c4b-b667-e7e835eab886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing for Katalon'])[1]/following::div[1]</value>
+      <webElementGuid>6799989d-b61e-4515-8f2d-69c78a22b432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[3]</value>
+      <webElementGuid>c2281d04-4fbf-46a9-b96f-5329d2d1cb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>d9d9c5d6-9aa3-4f7f-af51-489ddbbe7eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sales leadheadofsaleuserProgressInformation CorrectDocuments are validAggregated DeviceStatusNewActionReturnAmendSubmitRejectRemark HistoryNo comment yet' or . = 'Sales leadheadofsaleuserProgressInformation CorrectDocuments are validAggregated DeviceStatusNewActionReturnAmendSubmitRejectRemark HistoryNo comment yet')]</value>
+      <webElementGuid>b8724144-a98f-4e87-b6e0-3c5ed1e60689</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

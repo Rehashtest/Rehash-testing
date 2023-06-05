@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ops Admin Device Approval in Evident</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4ae9ec4-c6de-4cde-83e4-e030ecd9b87e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>25798685-b5ab-48d4-ac3b-3030fc72acad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25798685-b5ab-48d4-ac3b-3030fc72acad</id>
+      <masked>false</masked>
+      <name>deviceName</name>
+   </variable>
+</TestCaseEntity>

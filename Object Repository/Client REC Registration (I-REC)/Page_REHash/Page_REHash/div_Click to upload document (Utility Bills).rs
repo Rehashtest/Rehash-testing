@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click to upload document (Utility Bills)</name>
+   <tag></tag>
+   <elementGuidId>b818b994-c217-455a-be22-632ee7ec9256</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/section/div[2]/div[4]/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd5892b3-cb1a-45de-bc17-31214e6064dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jrJtz</value>
+      <webElementGuid>46504c13-f7be-40a3-a079-cf76484420db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload document</value>
+      <webElementGuid>dcd210e1-c91b-4fd1-ac39-9d3ec6c54a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;mt-16&quot;]/section[1]/div[@class=&quot;border rounded-lg px-5 py-3 mt-2 border-shadow-container bg-white&quot;]/div[@class=&quot;mt-4&quot;]/div[3]/div[@class=&quot;grid grid-cols-12 row-gap-4 p-4&quot;]/div[@class=&quot;col-span-3 xxl:col-span-4&quot;]/div[@class=&quot;jrJtz&quot;]</value>
+      <webElementGuid>f87cd734-b075-4217-acc3-4ab77bd0d88d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div[2]/section/div[2]/div[4]/div[3]/div/div/div</value>
+      <webElementGuid>94e2ac64-0101-40a9-a0bd-0e9c02f39887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility Bill(s) / Invoice(s)'])[1]/following::div[3]</value>
+      <webElementGuid>0f0a3b6d-6983-4945-af54-2f7325d231ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exported Data from Energy Management System'])[1]/following::div[14]</value>
+      <webElementGuid>46dcf3d5-5033-408b-88a0-01635ad6459e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTES'])[1]/preceding::div[8]</value>
+      <webElementGuid>201b087a-8b3b-47df-93c4-af4625f06ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[10]</value>
+      <webElementGuid>2be7a3a5-883a-4d88-a7ba-962545ea97b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div/div</value>
+      <webElementGuid>cdad2cd0-f7c2-4998-b185-f22f9edea4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click to upload document' or . = 'Click to upload document')]</value>
+      <webElementGuid>15193de3-94c2-4c81-9cb0-0015722ad425</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

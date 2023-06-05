@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click to upload document (I-REC Issuance Request Form)</name>
+   <tag></tag>
+   <elementGuidId>e16a42d9-e64d-43be-8f8f-216343c2e182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/section/div/div[4]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08b97dc5-da16-40e9-91bb-f3d01f1ea5cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jrJtz</value>
+      <webElementGuid>8d8a7939-c0b3-4f68-a18c-06373276661c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload document</value>
+      <webElementGuid>305814e5-24e0-4cb9-a31d-79050fe2eac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;mt-16&quot;]/section[1]/div[@class=&quot;border rounded-lg px-5 py-3 mt-2 border-shadow-container bg-white&quot;]/div[@class=&quot;mt-4&quot;]/div[2]/div[@class=&quot;grid grid-cols-12 row-gap-4 p-4&quot;]/div[@class=&quot;col-span-3 xxl:col-span-4&quot;]/div[@class=&quot;jrJtz&quot;]</value>
+      <webElementGuid>74001521-04cc-4ae9-8d77-d7c3e85c9bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div[2]/section/div/div[4]/div[2]/div/div/div</value>
+      <webElementGuid>9eec0915-0877-4a8a-b044-7a843ef16362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I-REC Issuance Request Form *'])[1]/following::div[3]</value>
+      <webElementGuid>c77a350f-c5d4-4c93-bf4d-2ea742cae6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I-REC Issuing Declaration *'])[1]/following::div[14]</value>
+      <webElementGuid>a722ece4-4c07-42ed-a1f4-509973465531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OTHER RELEVANT DOCUMENTS'])[1]/preceding::div[8]</value>
+      <webElementGuid>3124d56d-d1a4-46b9-a573-a063e80573da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please proceed to upload your generation data which may come in one of the three formats:'])[1]/preceding::div[8]</value>
+      <webElementGuid>7a3ad140-b59c-4c1e-9f37-c0b769af5c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div</value>
+      <webElementGuid>3968fddd-9739-4e7b-9758-f7377f842696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click to upload document' or . = 'Click to upload document')]</value>
+      <webElementGuid>9e98912c-6bc2-41e6-82c1-e3d327b407bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Remark_RemarkContent (3)</name>
+   <tag></tag>
+   <elementGuidId>439be6fc-2d11-4d8a-a0e3-352704e8cd6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='RemarkContent']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;RemarkContent&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>56bce2c4-9b96-421a-80c4-0fa63fb028bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>RemarkContent</value>
+      <webElementGuid>87ffc3c5-3f7a-4ce3-8df9-d9853a698401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Ll29B ouzj- SPIlO</value>
+      <webElementGuid>58b903c6-0b93-48c2-ba6a-27dd17511e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>95e0b44c-9c82-4729-9629-55996b3947b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/reach-portal[3]/div[2]/div[1]/div[1]/div[@class=&quot;Mow1G W4v4A&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;_7yYbR&quot;]/div[@class=&quot;jCXzE&quot;]/textarea[@class=&quot;Ll29B ouzj- SPIlO&quot;]</value>
+      <webElementGuid>c3fcd462-4605-4636-ac89-dd014acda621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='RemarkContent']</value>
+      <webElementGuid>619c2fbe-50f5-414d-aed8-6ad52ed980cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>886f6fec-d8d9-491a-8bef-91d8815b8e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'RemarkContent']</value>
+      <webElementGuid>065e5382-0be0-49ed-9702-c8ca80eec90c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

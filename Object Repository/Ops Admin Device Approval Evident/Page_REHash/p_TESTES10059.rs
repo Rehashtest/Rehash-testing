@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_TESTES10059</name>
+   <tag></tag>
+   <elementGuidId>be8e2c4d-004a-4d8a-a246-0eb77e8dacc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div/section/div[2]/form/div/fieldset[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset.flex-1 > div.f9k3F > p.break-words.We24G</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1e01a595-1957-4eac-9d03-427f5d09756a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>break-words We24G</value>
+      <webElementGuid>8b53cf97-6aea-483c-822d-9ac73dd7074d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TESTES10059</value>
+      <webElementGuid>58bc088d-be70-414d-bfe0-3bf16342211c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;mt-4 mx-6&quot;]/div[@class=&quot;grid grid-cols-12 md:gap-5 lg:gap-8&quot;]/div[@class=&quot;col-span-9 flex flex-col gap-4&quot;]/section[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4&quot;]/form[1]/div[@class=&quot;flex justify-between gap-3&quot;]/fieldset[@class=&quot;flex-1&quot;]/div[@class=&quot;f9k3F&quot;]/p[@class=&quot;break-words We24G&quot;]</value>
+      <webElementGuid>a62a2b7d-9fa9-4929-975d-a3bc0a18b6fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div/section/div[2]/form/div/fieldset[2]/div/p</value>
+      <webElementGuid>dfc432b3-a332-4e1a-b29c-45e0668f7e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registry ID'])[1]/following::p[1]</value>
+      <webElementGuid>c48c97d1-4a83-4e88-b99d-05defa6560e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Code'])[1]/following::p[2]</value>
+      <webElementGuid>e60ac2f8-ca9f-4a0b-ad44-50f3efd5e238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::p[1]</value>
+      <webElementGuid>c1752596-6d63-43d5-bf10-959aaf67001b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download All'])[1]/preceding::p[9]</value>
+      <webElementGuid>f1e8d86f-8c22-4918-b6e5-f213fd0206a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TESTES10059']/parent::*</value>
+      <webElementGuid>d8889c54-f209-4135-9e85-fae32d3ba7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div/p</value>
+      <webElementGuid>30eef63b-ad93-4abd-87f9-e019a5c79cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'TESTES10059' or . = 'TESTES10059')]</value>
+      <webElementGuid>877d21a6-e08e-4521-82e9-74c7b6ad26bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

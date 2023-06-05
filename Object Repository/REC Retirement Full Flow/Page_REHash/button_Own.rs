@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Own</name>
+   <tag></tag>
+   <elementGuidId>6dd44bb5-2b8d-406f-b74b-691b143f7a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.px-4.py-2.rounded-lg.shadow.bg-gray-80</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92c2bdf0-b126-46b3-8dee-f8efcd1cef50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 rounded-lg shadow bg-gray-80</value>
+      <webElementGuid>5739130e-91ec-4106-8c27-51dd7f7fcdc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Own</value>
+      <webElementGuid>ab92f173-e22f-41ca-b2ab-98c1a27aaf87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;as0Kr&quot;]/section[@class=&quot;B-aoL js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex gap-4&quot;]/div[@class=&quot;w-5/6 flex flex-col gap-4&quot;]/div[@class=&quot;border-shadow-container bg-white p-4&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[1]/button[@class=&quot;px-4 py-2 rounded-lg shadow bg-gray-80&quot;]</value>
+      <webElementGuid>88ba09cc-1494-4897-b5c7-c671a1254443</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>1cf760af-b329-4c06-a1de-b2ead4398452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiary Information'])[1]/following::button[1]</value>
+      <webElementGuid>432e952c-53d1-4c4d-bb5d-3e9fc1c89b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::button[1]</value>
+      <webElementGuid>c0cefcce-e7ea-4900-bbbe-7983a328a682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On behalf of others'])[1]/preceding::button[1]</value>
+      <webElementGuid>fea7e7b8-213d-45de-97ac-53d1c3636688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[2]</value>
+      <webElementGuid>ea81b470-e907-4934-a4d3-1cd58cfb16bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Own']/parent::*</value>
+      <webElementGuid>0687bfc2-9cb2-4486-8c98-85849910a081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/button</value>
+      <webElementGuid>8dc52bad-d687-44d4-8873-d7190f303384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Own' or . = 'Own')]</value>
+      <webElementGuid>72fb204e-ecef-4d04-bfa6-2c1161d42eab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

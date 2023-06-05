@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sign In</name>
+   <tag></tag>
+   <elementGuidId>c82b40a1-ed4c-46cf-a3e0-d9801c94abce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/form/fieldset[4]/button/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.rehash-ui-button__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5e968ad6-53a9-4c65-8aeb-417fd83c63eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-button__content</value>
+      <webElementGuid>02f1b203-9206-4c9e-b3df-bd26057b6de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>a3c8bd48-f5ba-47ed-a318-8bfa32b319b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;grid grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col justify-between items-center bg-white padding-footer&quot;]/div[@class=&quot;flex flex-col justify-center items-center w-full h-full&quot;]/form[@class=&quot;w-full px-4 xl:px-0 xl:w-2/3 mb-12&quot;]/fieldset[@class=&quot;flex justify-center&quot;]/button[@class=&quot;w-full rehash-ui-button rehash-ui-button__primary&quot;]/p[@class=&quot;rehash-ui-button__content&quot;]</value>
+      <webElementGuid>c7750366-4665-49af-a315-3d1d5020fd01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/form/fieldset[4]/button/p</value>
+      <webElementGuid>94b98758-bb64-4d09-ae42-144c76120c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::p[1]</value>
+      <webElementGuid>ed62edc4-720e-4e94-8d0a-0df8db3a780e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::p[1]</value>
+      <webElementGuid>dd703e0c-d560-4e93-b41b-8a41b1b7681a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::p[1]</value>
+      <webElementGuid>e212e083-3fb9-4829-b289-cd27c1c9fe3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>eefe9ada-26f6-4e31-ba18-090d336e2fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>e8018b71-493b-4820-9e64-bd33a19e3e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>fb3593d4-d185-4f73-a77b-3f513e295450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

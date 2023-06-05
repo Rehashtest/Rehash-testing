@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Next</name>
+   <tag></tag>
+   <elementGuidId>cbddc013-d6ac-4dd3-874d-6a00340236ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/form/div[2]/button[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.rehash-ui-button.rehash-ui-button__primary > p.rehash-ui-button__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9b8afbd3-04a5-4678-944a-cda320d1b342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-button__content</value>
+      <webElementGuid>c248765c-5af3-49c0-b8d5-9ae90211f350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>093cc50f-7c83-446f-ba4c-a91a188de37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;mt-16&quot;]/div[@class=&quot;my-8 flex items-center justify-center gap-4 scapU&quot;]/button[@class=&quot;rehash-ui-button rehash-ui-button__primary&quot;]/p[@class=&quot;rehash-ui-button__content&quot;]</value>
+      <webElementGuid>7c7b202d-dee8-4d42-b8ab-d24afe5a3158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/form/div[2]/button[2]/p</value>
+      <webElementGuid>fedf75ba-ef53-437b-868f-328b5bfd835a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I understand that there will be a fee for REC(s) issuance'])[1]/following::p[2]</value>
+      <webElementGuid>5d5e6949-0804-4b8f-ac87-519f74365c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::p[2]</value>
+      <webElementGuid>497cb1f8-dc06-41cd-8ae0-c121c05c8043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[1]/preceding::p[5]</value>
+      <webElementGuid>d5a71d69-9aa7-4bdf-96e6-a4cb97a0d626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[2]/preceding::p[5]</value>
+      <webElementGuid>2a403932-2c03-4022-a1ed-764f58850a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>53cd0d5b-af3b-41b4-848a-42e363522bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/p</value>
+      <webElementGuid>564574a8-75ef-4849-8244-5b24a3bcdf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>798169e9-0e3e-4ee6-b928-6a252652a153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

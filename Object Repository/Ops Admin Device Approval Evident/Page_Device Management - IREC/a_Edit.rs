@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>2ec85f5c-a5e5-4cee-a8e5-c897ca071a6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=&quot;event.preventDefault();$nuxt.$router.push('/IREC/device-management/TESTES10059/edit')&quot;])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div.btn-group > a.btn.btn-sm.btn-primary.text-dark.d-flex.align-items-center.justify-content-around</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3133ac8e-2838-4aad-adef-b249e24ce90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/IREC/device-management/TESTES10059/edit</value>
+      <webElementGuid>3e3fcc38-dc8f-464a-bc51-b0250461a31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>event.preventDefault();$nuxt.$router.push('/IREC/device-management/TESTES10059/edit')</value>
+      <webElementGuid>658ff90b-8bf0-4cec-b686-2916f4fcf429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary text-dark d-flex align-items-center justify-content-around</value>
+      <webElementGuid>726f8836-d292-42ac-ae61-9f5f09070734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    
+                                    Edit
+                                </value>
+      <webElementGuid>2e33942d-77ad-4404-8646-51092b140863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;devicesTable&quot;)/div[@class=&quot;tabulator-tableholder&quot;]/div[@class=&quot;tabulator-table&quot;]/div[@class=&quot;tabulator-row tabulator-selectable tabulator-row-odd&quot;]/div[@class=&quot;tabulator-responsive-collapse&quot;]/table[1]/tr[5]/td[2]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-sm btn-primary text-dark d-flex align-items-center justify-content-around&quot;]</value>
+      <webElementGuid>c5db2556-5496-4ebd-bbc1-b059f0080734</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick=&quot;event.preventDefault();$nuxt.$router.push('/IREC/device-management/TESTES10059/edit')&quot;])[2]</value>
+      <webElementGuid>e96406eb-44d0-415c-b228-19b21f2fdebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='devicesTable']/div[2]/div/div/div[11]/table/tr[5]/td[2]/div/a[2]</value>
+      <webElementGuid>afa836bb-4035-411f-b2df-da675d73bbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/following::a[2]</value>
+      <webElementGuid>2c280313-447e-4568-a102-ae503409b520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated By'])[2]/following::a[2]</value>
+      <webElementGuid>3d4ca1f5-0338-443f-b133-c32a0c2392c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing'])[1]/preceding::a[1]</value>
+      <webElementGuid>733d5a42-722e-4658-8783-554c8f4feb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/IREC/device-management/TESTES10059/edit')])[2]</value>
+      <webElementGuid>5f4bb19a-8d6e-4239-ac04-1b34a9359110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a[2]</value>
+      <webElementGuid>3bceae0e-e393-4325-b53a-5b364a933f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/IREC/device-management/TESTES10059/edit' and (text() = '
+                                    
+                                    Edit
+                                ' or . = '
+                                    
+                                    Edit
+                                ')]</value>
+      <webElementGuid>c945fccc-e123-4a44-9cf3-b547cc104c25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

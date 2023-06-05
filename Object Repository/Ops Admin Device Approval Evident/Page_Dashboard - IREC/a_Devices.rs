@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Devices</name>
+   <tag></tag>
+   <elementGuidId>10e0e651-c85d-4285-9958-afc62e9c4263</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/div/nav/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4af17f88-c72c-4753-969f-aef6f60ad6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/IREC/device-management</value>
+      <webElementGuid>177e6f09-2d59-404a-a661-05424ca3bf79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pl-3 py-3 d-flex</value>
+      <webElementGuid>41ae2727-aa46-4e74-b8bb-115596e18715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>3160b53b-a111-4b8c-9f3e-d9580740ced6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Devices </value>
+      <webElementGuid>0a7c88bf-272a-426d-b4c5-05a30e8f7c28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;d-flex pw IREC&quot;]/div[@class=&quot;position-relative pw__sidebar bg-white&quot;]/div[@class=&quot;pt-4 bg-tertiary-dark vh-100 overflow-auto float-right sticky-top&quot;]/nav[@class=&quot;nav-menu&quot;]/div[@class=&quot;d-flex flex-column position-relative nav-item&quot;]/a[@class=&quot;pl-3 py-3 d-flex&quot;]</value>
+      <webElementGuid>a0c56169-f636-41ff-bafd-7b9ad80b296f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div/nav/div[2]/a</value>
+      <webElementGuid>30af023c-3c89-488d-8961-388687853a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[1]</value>
+      <webElementGuid>eb83b143-e104-4e09-8816-3b921fc903a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issuer Org 5E7B2'])[1]/following::a[2]</value>
+      <webElementGuid>cd0aca35-28f6-4b0e-9807-32c56f9cd35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts'])[1]/preceding::a[1]</value>
+      <webElementGuid>79a224aa-e2a4-4777-83c4-531b4e15d138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/IREC/device-management')]</value>
+      <webElementGuid>b126e348-1d9e-4c18-a7da-aa825b14d26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>12796e3a-1856-48ba-a544-e011df17b401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/IREC/device-management' and (text() = ' Devices ' or . = ' Devices ')]</value>
+      <webElementGuid>4588b931-651a-44d2-a895-116dea9da488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

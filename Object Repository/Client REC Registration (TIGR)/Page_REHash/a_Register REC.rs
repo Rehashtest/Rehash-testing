@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register REC</name>
+   <tag></tag>
+   <elementGuidId>fa072ab3-8083-49ce-b44e-f4a20dac552a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/section/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-primary.rounded.flex.justify-center.py-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6d2d143-0daa-4519-a7c8-d53652ff79c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary rounded flex justify-center py-2</value>
+      <webElementGuid>1ab7cc1e-ad55-4c0e-ba41-2d65fffd76fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/rec-registration/select</value>
+      <webElementGuid>2f0447ca-4463-4e4c-9a6f-d890113c4c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register REC</value>
+      <webElementGuid>800f6752-0df9-4b9a-9c51-a7482b13a1c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;as0Kr&quot;]/section[@class=&quot;B-aoL js-wrapper-scrollEffect padding-footer&quot;]/section[@class=&quot;w-full px-6&quot;]/div[@class=&quot;grid grid-cols-12 flex gap-4&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;border-shadow-container bg-white p-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/a[@class=&quot;btn-primary rounded flex justify-center py-2&quot;]</value>
+      <webElementGuid>c92e3ad2-55eb-4520-af60-b7c368fba00b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/section/div/div[2]/div/div/a</value>
+      <webElementGuid>287098ac-62a5-474e-8d91-16c10728aff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::a[1]</value>
+      <webElementGuid>eb6d0947-90e4-4d4b-abf3-3ebc48dff151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC Import'])[1]/following::a[1]</value>
+      <webElementGuid>ce0d7d68-5ee3-4653-8c9b-f80c837976fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import REC'])[1]/preceding::a[1]</value>
+      <webElementGuid>edbb6ee9-1730-4b39-a83b-83c481df5f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/rec-registration/select')]</value>
+      <webElementGuid>7db585c7-9389-42f5-b734-dbe0f4d67ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>f3f2bdf8-845d-42a1-be3d-0e2392317571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/rec-registration/select' and (text() = 'Register REC' or . = 'Register REC')]</value>
+      <webElementGuid>f28e3a63-982a-40b6-b908-2b13fe1c9d17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select asset_field-select-responsive in_5f3ef5</name>
+   <tag></tag>
+   <elementGuidId>982f11a0-3356-44b9-9f8c-86605c3b33b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/form/div/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-select-responsive.input-field__input-container.css-ackcql</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9854e17-0c5f-47e6-b356-26be50a35526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-select-responsive input-field__input-container css-ackcql</value>
+      <webElementGuid>a189556c-1c7d-466f-8b86-e1275f5cc606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;MRS1i&quot;]/form[1]/div[@class=&quot;YB5Ow&quot;]/div[@class=&quot;w-full mt-4&quot;]/div[@class=&quot;jCXzE&quot;]/div[@class=&quot;m7FGD css-b62m3t-container&quot;]/div[@class=&quot;field-select-responsive input-field__control field-select-responsive input-field__control--is-focused field-select-responsive input-field__control--menu-is-open css-19ghioa-control&quot;]/div[@class=&quot;field-select-responsive input-field__value-container css-1ppizev&quot;]/div[@class=&quot;field-select-responsive input-field__input-container css-ackcql&quot;]</value>
+      <webElementGuid>49f9ee5f-eaf1-4c22-8024-9312a4a2cf8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/form/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>19c4fd0a-ade1-4cae-8a05-f0d7566a2a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select asset'])[1]/following::div[1]</value>
+      <webElementGuid>2dc322f0-a5a3-44f9-b29b-3f6347a9fcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your asset'])[1]/following::div[7]</value>
+      <webElementGuid>9f395224-3b8f-49e9-9a7f-48e575b86117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Solar Panels'])[1]/preceding::div[3]</value>
+      <webElementGuid>ae98887a-7755-4c44-a3c7-b779609317a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pantai Indah Kapuk Solar Panels'])[1]/preceding::div[4]</value>
+      <webElementGuid>e58ae50c-dff8-40c5-9380-6205d0bbeacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>23aea102-c126-4da5-a9a6-a895a88e7eb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

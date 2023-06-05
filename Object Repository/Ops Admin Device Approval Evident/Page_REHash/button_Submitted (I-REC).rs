@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submitted (I-REC)</name>
+   <tag></tag>
+   <elementGuidId>e4222f66-5798-4249-ac49-a80b8203cc97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/section/div[2]/div/div/button[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c2b3bcab-5447-4381-ad08-ef126485ed6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kcvf0</value>
+      <webElementGuid>97bcdbd2-45c8-4ffc-a1f6-359c9125f85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submitted (I-REC)</value>
+      <webElementGuid>b14277f1-6647-49a9-8f0b-61b4597d64c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/section[@class=&quot;w-full&quot;]/div[@class=&quot;md:mx-6 lg:mx-10 mt-2&quot;]/div[@class=&quot;mt-4 rounded bg-white&quot;]/div[@class=&quot;YxPKb flex&quot;]/button[@class=&quot;kcvf0&quot;]</value>
+      <webElementGuid>3d134bbd-0ac0-4e27-a1fd-725d1979d4db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/section/div[2]/div/div/button[6]</value>
+      <webElementGuid>e06c73f4-e104-4140-93cf-98381762ebe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verified (APX)'])[1]/following::button[1]</value>
+      <webElementGuid>95f2f80a-9db4-44c2-9cba-3794abe4ef49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-submitted'])[1]/following::button[2]</value>
+      <webElementGuid>3fccfed6-4442-4b76-9a1a-46013f16f43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returned'])[1]/preceding::button[1]</value>
+      <webElementGuid>4f862fde-4ce9-4da4-adef-59cdfc1ccad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected By I-REC'])[1]/preceding::button[2]</value>
+      <webElementGuid>69c982a9-ce13-4460-9182-d4315ce841da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submitted (I-REC)']/parent::*</value>
+      <webElementGuid>0e78fcae-a7ad-4a1e-b247-d348c39eed10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]</value>
+      <webElementGuid>0c246dfd-87e6-4605-b5e1-292a4eb0065f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Submitted (I-REC)' or . = 'Submitted (I-REC)')]</value>
+      <webElementGuid>abe06dab-b400-4fc0-84db-217f5434f3de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

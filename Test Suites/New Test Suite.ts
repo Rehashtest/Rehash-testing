@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6e3c3263-12dd-49e5-a8d3-7b2f2a07f8b4</testSuiteGuid>
+   <testCaseLink>
+      <guid>6b244485-0a02-4d54-bcc2-ebcd38b60620</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>ceb309c0-2a78-49cd-b35b-fb73fe72051d</id>
+         <masked>false</masked>
+         <name>effectiveDate</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Asset Registration REHash/Asset Registration (IREC)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>17d1ddcf-0c76-4ecb-b42a-7656bf7499fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Primary Fuel</value>
+         <variableId>d3a9dbf7-8909-4148-8bb2-06d4071165db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Technology</value>
+         <variableId>3c558771-ecbf-44b3-a3ea-51942d66e431</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Country</value>
+         <variableId>21b7b225-60ea-48bb-af1d-c31665a498c4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>State</value>
+         <variableId>46a812a4-2288-4cdb-966a-1f4c1f0cf7c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Capacity (MW)</value>
+         <variableId>83cf6fd3-ab41-4dad-b80a-4702d4f54e7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Commissioning Date</value>
+         <variableId>38c8957a-104b-434a-b58b-de6b1a584357</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Registration Date</value>
+         <variableId>ceb309c0-2a78-49cd-b35b-fb73fe72051d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Latitude</value>
+         <variableId>b70a3bc1-5793-4da0-b38e-073eb2051ea6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Longitude</value>
+         <variableId>3d24f2ef-c3fc-4ef8-83d4-a5df2abe1ef6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06fb6ae6-ad77-4069-b4d8-5999c3cec2f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Address</value>
+         <variableId>fc8e85e8-cd66-46d9-81c8-4b01a6dedd8c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

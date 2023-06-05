@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_INV-REAR-2023-05-10-00018</name>
+   <tag></tag>
+   <elementGuidId>a0f4e754-3e2b-4cd0-8f41-4945eee67fd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/div[2]/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.mt-4.font-bold.CyuKG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>f8cc77c7-1060-4dbe-91c5-b7198a77cc9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-4 font-bold CyuKG</value>
+      <webElementGuid>3f88e275-9713-4782-a547-ec257fdf2677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INV-REAR-2023-05-10-00018</value>
+      <webElementGuid>ffa3420f-dc27-48bb-b806-9c8ef1332840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;mt-5 md:mx-6 lg:mx-10 mb-4&quot;]/div[@class=&quot;grid grid-cols-12 md:gap-5 lg:gap-8&quot;]/div[@class=&quot;col-span-9 flex flex-col gap-4&quot;]/div[@class=&quot;border-shadow-container bg-white p-4&quot;]/div[@class=&quot;grid grid-cols-2&quot;]/div[@class=&quot;mx-2&quot;]/div[@class=&quot;relative pt-0 max-w-xs&quot;]/h6[@class=&quot;mt-4 font-bold CyuKG&quot;]</value>
+      <webElementGuid>222133c5-922a-4519-ab2d-6262885d8203</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/div[2]/div/h6</value>
+      <webElementGuid>a3afa8a0-3860-4120-9d3e-9acd964b86ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Number'])[1]/following::h6[1]</value>
+      <webElementGuid>8ccd66e0-c840-4f9a-81bd-6fb953330a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Information'])[1]/following::h6[1]</value>
+      <webElementGuid>70a95ded-9397-4e89-aa42-d282acb5233d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REC Item'])[1]/preceding::h6[1]</value>
+      <webElementGuid>7ed1859f-ef6c-4628-8552-d8370293ad81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>dec70621-2d30-4219-bf23-bbd9d206b9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'INV-REAR-2023-05-10-00018' or . = 'INV-REAR-2023-05-10-00018')]</value>
+      <webElementGuid>3ecc104d-4796-4c35-8ecb-78d0292bf023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

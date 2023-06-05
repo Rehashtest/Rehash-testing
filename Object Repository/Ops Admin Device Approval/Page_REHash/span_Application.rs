@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Application</name>
+   <tag></tag>
+   <elementGuidId>df87630d-26c7-4dc2-8618-21265a2e5c02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/ul/li[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mF6ku > span.u8Yrg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8d95218-91e4-4c8a-a7a0-b3482fc73349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u8Yrg</value>
+      <webElementGuid>7159d71b-433f-4b29-a06c-b200626e741d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application</value>
+      <webElementGuid>48d73881-2cf0-4fd7-9466-e47f3f719022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/div[@class=&quot;O-Bpx mt-4 pt-2&quot;]/div[@class=&quot;_2NTLc JQdNt padding-footer&quot;]/ul[@class=&quot;w-full mt-8&quot;]/li[2]/div[@class=&quot;mF6ku&quot;]/span[@class=&quot;u8Yrg&quot;]</value>
+      <webElementGuid>dc92ef2b-8746-41cf-b500-40d3c0e95c27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/ul/li[2]/div/span</value>
+      <webElementGuid>0eba849b-0c3f-4fa8-b89f-61c2f7cecc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[1]</value>
+      <webElementGuid>5487a951-b655-4abc-8e27-39f7a35acf45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='o'])[1]/following::span[2]</value>
+      <webElementGuid>8f38f80e-628d-4d37-b11c-9460629fd389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Registration'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a5a98e2-de04-41df-9967-c2357d03ce28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Registration'])[1]/preceding::span[1]</value>
+      <webElementGuid>5b6b71ac-52f6-40ef-b0fb-7769be7d1926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Application']/parent::*</value>
+      <webElementGuid>fb38a188-793b-4185-9e6e-f9a8055eb2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>bda5327d-2f2b-4f32-a08f-df42d6443cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Application' or . = 'Application')]</value>
+      <webElementGuid>100f91e1-70cb-492a-aa11-c4e737d0e6a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

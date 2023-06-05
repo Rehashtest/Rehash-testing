@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1Information2DocumentsAsset Information_21f5dd</name>
+   <tag></tag>
+   <elementGuidId>88df30f1-58a9-4219-acca-904c45c5e8c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17ba49ce-206a-4102-838d-9e614a96c0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>3912e229-ebe5-4813-9373-6ee9baa7ab49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1Information2DocumentsAsset InformationDevice NameTesting Solar PanelsDevice CodeTESTES10016Fuel TypeSolarStart Date*End Date*Period Production (MWh)*I understand that there will be a fee for REC(s) issuanceBackNext</value>
+      <webElementGuid>1d064a04-90e8-4fe5-8ea5-c80ed0fbd061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;container&quot;]</value>
+      <webElementGuid>b7328e52-f9ca-468e-92f5-8a2f6d778095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div</value>
+      <webElementGuid>6359b97b-3023-4cfa-9a29-723c1738fb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='t'])[1]/following::div[1]</value>
+      <webElementGuid>a0b4df94-5393-4e79-8861-c0763ba9de85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Company'])[1]/following::div[4]</value>
+      <webElementGuid>09f43b71-d103-4910-af29-86e5605f97fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>788ddb87-d693-4690-af15-8d3c37bc3f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1Information2DocumentsAsset InformationDevice NameTesting Solar PanelsDevice CodeTESTES10016Fuel TypeSolarStart Date*End Date*Period Production (MWh)*I understand that there will be a fee for REC(s) issuanceBackNext' or . = '1Information2DocumentsAsset InformationDevice NameTesting Solar PanelsDevice CodeTESTES10016Fuel TypeSolarStart Date*End Date*Period Production (MWh)*I understand that there will be a fee for REC(s) issuanceBackNext')]</value>
+      <webElementGuid>0e676f58-bc9c-4fdf-a4a7-5b31a42aa13b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

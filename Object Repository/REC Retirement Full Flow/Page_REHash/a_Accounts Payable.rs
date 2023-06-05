@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accounts Payable</name>
+   <tag></tag>
+   <elementGuidId>ef77596e-f1a8-4749-8885-a32615e01c0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/ul/li[5]/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > div.w-full > div.p-4.border-t-2 > ul.ErF7Y._5Xp9e > li:nth-of-type(2) > a._5YcdN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a9482b5-33b1-45a2-b998-98faf117a2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_5YcdN</value>
+      <webElementGuid>4cb771a3-61bd-4074-ae76-694ac77b222f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/transaction/accounts-payable</value>
+      <webElementGuid>2de3da5c-b879-4054-9b5f-77117c90ba35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accounts Payable</value>
+      <webElementGuid>ab5d0641-db23-44d3-9b3f-4ff1a0688337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;as0Kr&quot;]/div[@class=&quot;_2o6Ag&quot;]/div[@class=&quot;_1WbnP&quot;]/ul[@class=&quot;w-full mt-4&quot;]/li[5]/div[@class=&quot;w-full&quot;]/div[@class=&quot;p-4 border-t-2&quot;]/ul[@class=&quot;ErF7Y _5Xp9e&quot;]/li[2]/a[@class=&quot;_5YcdN&quot;]</value>
+      <webElementGuid>cd1486f2-f7da-4112-ba65-24e0d6d11749</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/ul/li[5]/div/div/ul/li[2]/a</value>
+      <webElementGuid>457bf68a-363a-46e8-a257-86296fbc532a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Accounts Payable')]</value>
+      <webElementGuid>a1cb1133-55f7-472b-9226-d74cbe8b13ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Receivable'])[1]/following::a[1]</value>
+      <webElementGuid>86a62f72-17f1-4f03-9cc7-d7151267542a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/following::a[2]</value>
+      <webElementGuid>184ac8d9-2a4e-439d-8a4a-d2866f700b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fees'])[1]/preceding::a[1]</value>
+      <webElementGuid>b528a62c-f2f9-41a7-920e-317d6fc2b4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SBI'])[1]/preceding::a[4]</value>
+      <webElementGuid>7f61e5f9-a2f0-425d-8c6f-96486917edb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accounts Payable']/parent::*</value>
+      <webElementGuid>c271b585-6ab4-416b-b628-b03abaa0e7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/transaction/accounts-payable')]</value>
+      <webElementGuid>d41df201-2fa5-45e5-be38-6a6338daf84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/ul/li[2]/a</value>
+      <webElementGuid>0395841b-f048-461f-9c71-a699ac28c295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/transaction/accounts-payable' and (text() = 'Accounts Payable' or . = 'Accounts Payable')]</value>
+      <webElementGuid>b91adf8e-b2a7-4b6e-ba98-2718dc2e618f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

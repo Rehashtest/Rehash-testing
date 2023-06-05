@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Click to upload (Company Registration Document)</name>
+   <tag></tag>
+   <elementGuidId>1941b13e-e40d-4f2d-8238-865e73d70732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.rehash-ui-document__default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div/form/section[2]/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1309c4f7-1bb7-4d3e-a8b4-2500c976a063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-document__default</value>
+      <webElementGuid>611ca372-1b55-4386-a55a-135c502d00be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload</value>
+      <webElementGuid>9a2388bf-e634-4423-ba06-9d4dbf5e060b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;nLQpU&quot;]/div[@class=&quot;_05-FX&quot;]/form[@class=&quot;bg-white border-shadow-container&quot;]/section[@class=&quot;eVbPK p-5&quot;]/div[@class=&quot;h4E8n gap-4&quot;]/div[@class=&quot;rehash-ui-document&quot;]/div[@class=&quot;flex items-end&quot;]/label[@class=&quot;rehash-ui-document__default&quot;]</value>
+      <webElementGuid>685ac48b-8cc0-4454-be80-f5a7214af807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div/form/section[2]/div/div/div/label</value>
+      <webElementGuid>050c1a7c-dbe5-4ef1-a117-0eec75d2b636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required Documents*'])[1]/following::label[1]</value>
+      <webElementGuid>1e556d90-7f4c-4160-a5af-df2301efba19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[1]</value>
+      <webElementGuid>c2b3c51b-bcff-4565-a0e5-b06519c8ea2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Sample'])[1]/preceding::label[1]</value>
+      <webElementGuid>6948148c-e64d-4e88-ab03-3a9bd72ef226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/preceding::label[2]</value>
+      <webElementGuid>744e7b41-8c8e-4c30-8686-2a59309aa4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/label</value>
+      <webElementGuid>51720f34-66d4-42ef-ba54-6c55850c0c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Click to upload' or . = 'Click to upload')]</value>
+      <webElementGuid>5a60c0e6-06f3-48e7-a9d1-b77c1a15feb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

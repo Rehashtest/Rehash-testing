@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Device Fuel</name>
+   <tag></tag>
+   <elementGuidId>ef23eed5-f116-45d0-b334-69a8fca8d09e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/form/div/div/div/fieldset/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-select-responsive.input-field__value-container.css-1ppizev</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdaec422-c358-40b7-b4a4-146cd2324f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-select-responsive input-field__value-container css-1ppizev</value>
+      <webElementGuid>514980cf-c2cb-49fd-9895-2b55af02ac75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Device Fuel</value>
+      <webElementGuid>cf95d2be-6aeb-4143-99d4-ae17be920661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;flex flex-col justify-center items-center&quot;]/div[@class=&quot;mt-8 w-5/12&quot;]/form[1]/div[@class=&quot;border-shadow-container bg-white&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/fieldset[1]/div[@class=&quot;jCXzE&quot;]/div[@class=&quot;m7FGD css-b62m3t-container&quot;]/div[@class=&quot;field-select-responsive input-field__control css-1j8lnl1-control&quot;]/div[@class=&quot;field-select-responsive input-field__value-container css-1ppizev&quot;]</value>
+      <webElementGuid>6644389a-59f8-4042-ba7e-a35f41ef25cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div[2]/form/div/div/div/fieldset/div/div/div/div</value>
+      <webElementGuid>d7cef085-d810-45c0-8878-bf7006becb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[3]</value>
+      <webElementGuid>b26babc6-e269-426e-981e-ed972a227462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div/div</value>
+      <webElementGuid>49e2b502-a878-438b-b230-cb666760dbac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Device Fuel' or . = 'Select Device Fuel')]</value>
+      <webElementGuid>2fc82b69-709d-4fb1-b1da-d1ea2f911a89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Approve</name>
+   <tag></tag>
+   <elementGuidId>346b0e24-bf86-49b1-8b58-4e5ec20d2d02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div[2]/section/div[2]/section/div/div/div/button/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.rehash-ui-button__content.color-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>186c133e-7a4f-4c62-b1fa-ca59f8e71d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rehash-ui-button__content color-white</value>
+      <webElementGuid>fd100ad0-ad06-4d1e-807e-cbc431f21e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>f0b582f6-d2fb-47a5-bf84-e4f744929953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;IUKZD&quot;]/section[@class=&quot;_4R-1K js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;mt-5 md:mx-6 lg:mx-10 mb-4&quot;]/div[@class=&quot;grid grid-cols-12 md:gap-5 lg:gap-8&quot;]/div[@class=&quot;col-span-3 flex flex-col gap-4&quot;]/section[@class=&quot;border-shadow-container bg-white flex flex-col p-4 gap-2 shadow-container&quot;]/div[@class=&quot;border-t-2 pt-2&quot;]/section[@class=&quot;_92h6n relative&quot;]/div[@class=&quot;p-4&quot;]/div[1]/div[@class=&quot;zizuc flex flex-col gap-4&quot;]/button[@class=&quot;bg-info rehash-ui-button rehash-ui-button__default&quot;]/p[@class=&quot;rehash-ui-button__content color-white&quot;]</value>
+      <webElementGuid>523c5f70-6240-411e-bcaa-422c524d924e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div[2]/section/div[2]/section/div/div/div/button/p</value>
+      <webElementGuid>8bcc9269-b8f8-4d62-9b00-538c8319da3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::p[1]</value>
+      <webElementGuid>7be2e29e-3141-483c-bcc1-613971b160e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::p[2]</value>
+      <webElementGuid>a205f01c-f4bd-4cfc-a0b3-4720811d6424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark History'])[1]/preceding::p[3]</value>
+      <webElementGuid>5a729551-6d45-46b9-9c7b-32d3de393144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No comment yet'])[1]/preceding::p[3]</value>
+      <webElementGuid>adf5ee7d-63b7-463c-b35e-cd1c5e8ee6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
+      <webElementGuid>d709fe88-56ab-4951-afcd-6b82bd8dba7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>fbac6386-5b44-4331-ade2-dbb6cc5203cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>08432bec-37f6-4354-8eb9-5b7fcaac85a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

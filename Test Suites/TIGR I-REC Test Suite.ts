@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TIGR I-REC Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e1722844-4251-41e7-a67d-5e135a369299</testSuiteGuid>
+   <testCaseLink>
+      <guid>b6567016-3a50-47df-94f8-05536097af76</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>21b7b225-60ea-48bb-af1d-c31665a498c4</id>
+         <masked>false</masked>
+         <name>Country</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Asset Registration REHash/Asset Registration (APX and IREC)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e8658f03-8007-48a2-9281-b12b72f6d30c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/APX I-REC Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Fuel Type</value>
+         <variableId>d3a9dbf7-8909-4148-8bb2-06d4071165db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Device Name</value>
+         <variableId>17d1ddcf-0c76-4ecb-b42a-7656bf7499fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Device Technology</value>
+         <variableId>3c558771-ecbf-44b3-a3ea-51942d66e431</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Country</value>
+         <variableId>21b7b225-60ea-48bb-af1d-c31665a498c4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Province</value>
+         <variableId>46a812a4-2288-4cdb-966a-1f4c1f0cf7c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nameplate capacity</value>
+         <variableId>83cf6fd3-ab41-4dad-b80a-4702d4f54e7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Commission date</value>
+         <variableId>38c8957a-104b-434a-b58b-de6b1a584357</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Effective Registration Date</value>
+         <variableId>ceb309c0-2a78-49cd-b35b-fb73fe72051d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b70a3bc1-5793-4da0-b38e-073eb2051ea6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3d24f2ef-c3fc-4ef8-83d4-a5df2abe1ef6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Address</value>
+         <variableId>fc8e85e8-cd66-46d9-81c8-4b01a6dedd8c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8658f03-8007-48a2-9281-b12b72f6d30c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Registry</value>
+         <variableId>8aeb5d1c-7bfd-4fd2-9731-972f2674e80c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

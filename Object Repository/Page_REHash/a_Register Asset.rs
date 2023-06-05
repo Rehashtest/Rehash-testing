@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register Asset</name>
+   <tag></tag>
+   <elementGuidId>edb2cdfd-86f2-4a24-8809-9f39aa9d3a32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/section/div/div[2]/div/div/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f02b10fd-ad76-452d-b8f4-9337f90a5fda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary rounded flex justify-center py-2</value>
+      <webElementGuid>20a9beb6-a6cb-4d3e-8fb1-651e6643ecad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/410fb0dc-2382-4aff-ba33-08db0a5913f7/clients/asset-registration/select</value>
+      <webElementGuid>d64e93a8-4a83-42b5-9716-2b3801f3d890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Asset</value>
+      <webElementGuid>1a2ad227-9e94-4907-abcb-97ae28d376cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;as0Kr&quot;]/section[@class=&quot;B-aoL js-wrapper-scrollEffect padding-footer&quot;]/section[@class=&quot;w-full px-6&quot;]/div[@class=&quot;grid grid-cols-12 flex gap-4&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;border-shadow-container bg-white p-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/a[@class=&quot;btn-primary rounded flex justify-center py-2&quot;]</value>
+      <webElementGuid>f11aeaf4-88a0-45d2-85e3-41676e6377ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/section/div/div[2]/div/div/a[4]</value>
+      <webElementGuid>e66e486e-1ad4-451c-813a-a7ef40f86e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Sell Order'])[1]/following::a[1]</value>
+      <webElementGuid>ca96b806-1262-472c-a8b1-391f3914ef35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import REC'])[1]/following::a[2]</value>
+      <webElementGuid>7a841c45-8076-48d9-a12e-93b9e08d49bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[1]/preceding::a[1]</value>
+      <webElementGuid>21000e62-2c2b-423b-ba37-c0175fc4f869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/410fb0dc-2382-4aff-ba33-08db0a5913f7/clients/asset-registration/select')]</value>
+      <webElementGuid>7b8ab424-ecaa-4021-be1c-b562c09f2004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>75672e6f-4581-4a30-830d-fe5a2545380c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/410fb0dc-2382-4aff-ba33-08db0a5913f7/clients/asset-registration/select' and (text() = 'Register Asset' or . = 'Register Asset')]</value>
+      <webElementGuid>67739921-fdaa-4f8a-9fe2-27acb86dafd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Swift Code</name>
+   <tag></tag>
+   <elementGuidId>e82b7e40-3c68-4d28-b44c-a5ef15d979cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-primary.rehash-ui-legacy-button.rehash-ui-legacy-button__default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4dbddb4a-ca80-480d-a6f4-d8e4683f47e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e7a62f7-0774-4fbf-b252-2e8507d1591d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary rehash-ui-legacy-button rehash-ui-legacy-button__default</value>
+      <webElementGuid>92998273-2b7b-4193-95f5-b4d8553947f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Swift Code</value>
+      <webElementGuid>5d4e0eaf-7e20-4d7d-848a-e34e1a85c9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;padding-footer&quot;]/div[@class=&quot;nLQpU&quot;]/div[@class=&quot;_05-FX&quot;]/form[@class=&quot;bg-white border-shadow-container&quot;]/div[1]/div[@class=&quot;flex flex-col px-4 pb-4 gap-4&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex mt-4 gap-4&quot;]/button[@class=&quot;bg-primary rehash-ui-legacy-button rehash-ui-legacy-button__default&quot;]</value>
+      <webElementGuid>00a80e0e-9a26-4fc6-8c28-ed43409b5890</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>584c9f0e-3e17-41ad-aa7d-97b3f0ad7f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/div/div/form/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>8552eba1-1444-4575-8530-e5046b2b54c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::button[2]</value>
+      <webElementGuid>a8cb234c-0aaa-4455-ae49-d3168194d4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::button[2]</value>
+      <webElementGuid>2c0407b3-7e7c-4b17-ad79-e1302121cc23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Information'])[1]/preceding::button[1]</value>
+      <webElementGuid>1b89e430-1ffb-4d87-9847-efd02d8ad9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]</value>
+      <webElementGuid>6104645b-c9a9-4161-a5e3-885f3e239c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Swift Code' or . = 'Swift Code')]</value>
+      <webElementGuid>612ba8f3-3b54-45c1-a5c4-a7363329f660</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

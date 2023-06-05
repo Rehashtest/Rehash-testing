@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Device  Project_field-select-res_8c8655</name>
+   <tag></tag>
+   <elementGuidId>5f34ad3b-143a-4572-a403-276e53ec5657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/section/div/div[2]/div/form/div/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-select-responsive.input-field__input-container.css-ackcql</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d94d200b-1aef-42c6-9d99-b3ea65c06f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-select-responsive input-field__input-container css-ackcql</value>
+      <webElementGuid>3b194891-07f3-4637-a0c5-4ead87b0908e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;as0Kr&quot;]/section[@class=&quot;B-aoL js-wrapper-scrollEffect padding-footer&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex gap-4&quot;]/div[@class=&quot;w-5/6 flex flex-col gap-4&quot;]/form[1]/div[@class=&quot;border-shadow-container bg-white p-4&quot;]/div[@class=&quot;pb-4&quot;]/div[@class=&quot;jCXzE&quot;]/div[@class=&quot;m7FGD css-b62m3t-container&quot;]/div[@class=&quot;field-select-responsive input-field__control field-select-responsive input-field__control--is-focused field-select-responsive input-field__control--menu-is-open css-19ghioa-control&quot;]/div[@class=&quot;field-select-responsive input-field__value-container css-1ppizev&quot;]/div[@class=&quot;field-select-responsive input-field__input-container css-ackcql&quot;]</value>
+      <webElementGuid>11d06caf-4114-4e62-942a-4cc96f36a45f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/section/div/div[2]/div/form/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>669bce84-737e-4f24-a1cf-cdba59dd1ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Device / Project'])[1]/following::div[1]</value>
+      <webElementGuid>572e4cb1-3283-4b71-b2ff-4d5ae39f7868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[5]</value>
+      <webElementGuid>41647bc0-0c13-487f-a8c2-31b6b23baadd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jiaoxi I Hydropower Station'])[1]/preceding::div[3]</value>
+      <webElementGuid>54dfc21b-3e7a-4720-9ec9-b5ae9db97c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-RECSolar SGTER10'])[1]/preceding::div[4]</value>
+      <webElementGuid>2fefae8c-3c3d-494b-b92f-55ad4faad1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>fd8d5c58-06c8-437d-b99b-06663d276167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

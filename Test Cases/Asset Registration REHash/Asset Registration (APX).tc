@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Asset Registration (APX)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98201ff6-a745-4bee-9bee-3909944d8d48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8aeb5d1c-7bfd-4fd2-9731-972f2674e80c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76b5e083-0e20-40da-b2d4-fcbf5ed8a953</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d864202-e595-4fb9-a4c4-ebf69b249ba8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8aeb5d1c-7bfd-4fd2-9731-972f2674e80c</id>
+      <masked>false</masked>
+      <name>Registry</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>76b5e083-0e20-40da-b2d4-fcbf5ed8a953</id>
+      <masked>false</masked>
+      <name>deviceName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d864202-e595-4fb9-a4c4-ebf69b249ba8</id>
+      <masked>false</masked>
+      <name>nameplateCapacity</name>
+   </variable>
+</TestCaseEntity>
