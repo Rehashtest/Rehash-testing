@@ -6,12 +6,12 @@
    <elementGuidId>c32bfe47-03cf-438e-8072-42acd3a8fcab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='Address']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;Address&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/form/div/div/div/fieldset/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

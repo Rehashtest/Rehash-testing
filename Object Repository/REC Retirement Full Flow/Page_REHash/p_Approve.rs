@@ -6,12 +6,12 @@
    <elementGuidId>d440c5e4-ef16-4d5e-b768-bc2c5871ec1d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/section/div/div[2]/div[2]/section/div[2]/section/div/div/div/button/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p.rehash-ui-button__content.color-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::p[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

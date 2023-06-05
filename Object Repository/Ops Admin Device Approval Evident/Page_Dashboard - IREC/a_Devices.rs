@@ -6,12 +6,11 @@
    <elementGuidId>10e0e651-c85d-4285-9958-afc62e9c4263</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div/div/div/nav/div[2]/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Issuer Org 5E7B2'])[1]/following::a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

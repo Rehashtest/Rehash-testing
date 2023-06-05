@@ -15,10 +15,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>

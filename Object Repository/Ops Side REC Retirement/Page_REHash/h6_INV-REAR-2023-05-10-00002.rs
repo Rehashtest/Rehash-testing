@@ -6,12 +6,12 @@
    <elementGuidId>10e78fae-8752-493d-a26e-d7bba19e9cb2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/section/div/div[2]/div/div/div[2]/div[2]/div/h6</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h6.mt-4.font-bold.CyuKG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Information'])[1]/following::h6[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

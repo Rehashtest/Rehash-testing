@@ -6,15 +6,18 @@
    <elementGuidId>59901b3a-39ee-4166-9ab8-15b3d7cb23a8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/section/section/div/div[2]/div/div/a[4]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[1]/preceding::a[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#/503525b1-1eaa-49f5-f735-08daa10bfc10/clients/asset-registration/select' and (text() = 'Register Asset' or . = 'Register Asset')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

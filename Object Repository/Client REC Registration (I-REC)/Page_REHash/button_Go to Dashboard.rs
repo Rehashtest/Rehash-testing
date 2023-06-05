@@ -6,12 +6,12 @@
    <elementGuidId>07c6fd6d-f35f-418f-b473-0b1820159795</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/section/div/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

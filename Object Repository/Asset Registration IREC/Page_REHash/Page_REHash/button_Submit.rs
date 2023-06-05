@@ -6,12 +6,12 @@
    <elementGuidId>b63213b6-60d0-4033-9f51-e6aacf0aba5b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/div/div[2]/form/div/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

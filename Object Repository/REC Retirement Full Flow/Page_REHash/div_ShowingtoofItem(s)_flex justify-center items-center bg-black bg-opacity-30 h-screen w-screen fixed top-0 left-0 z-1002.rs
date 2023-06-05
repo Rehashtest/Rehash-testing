@@ -6,12 +6,12 @@
    <elementGuidId>0a939897-772f-4f9f-89f8-b24d48ec336d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/section/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.flex.justify-center.items-center.bg-black.bg-opacity-30.h-screen.w-screen.fixed.top-0.left-0.z-1002</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>535510fd-0db0-434c-947e-6747a1425b9d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='__BVID__393']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#__BVID__393</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div[2]/div[3]/div/div[2]/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

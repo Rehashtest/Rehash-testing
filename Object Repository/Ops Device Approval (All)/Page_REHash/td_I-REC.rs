@@ -14,10 +14,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/section/section/div[3]/div/div/table/tbody/tr[2]/td[3]</value>
+         <value>//*/text()[normalize-space(.)='I-REC']/parent::*</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

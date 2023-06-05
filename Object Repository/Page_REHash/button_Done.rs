@@ -6,12 +6,12 @@
    <elementGuidId>5f950c45-b2d1-4054-88eb-f9cfdece274f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/section/div/div[2]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary.mt-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='j'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

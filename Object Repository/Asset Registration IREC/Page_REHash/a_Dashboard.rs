@@ -6,12 +6,12 @@
    <elementGuidId>1b58a185-063d-4b2c-a900-d85dfa904003</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div/ul/li/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a._5YcdN._6vSUB.mb-4.mx-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/preceding::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

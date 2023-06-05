@@ -6,12 +6,11 @@
    <elementGuidId>52103e23-e4cf-4426-a52a-f82a2eb5cd1c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/section/section/div[3]/div/div/table/tbody/tr/td[13]/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[1]/preceding::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

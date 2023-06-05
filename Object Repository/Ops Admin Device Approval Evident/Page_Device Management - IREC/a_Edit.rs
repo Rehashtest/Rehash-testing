@@ -6,12 +6,12 @@
    <elementGuidId>2ec85f5c-a5e5-4cee-a8e5-c897ca071a6b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[@onclick=&quot;event.preventDefault();$nuxt.$router.push('/IREC/device-management/TESTES10059/edit')&quot;])[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(2) > div.btn-group > a.btn.btn-sm.btn-primary.text-dark.d-flex.align-items-center.justify-content-around</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='devicesTable']/div[2]/div/div/div[11]/table/tr[5]/td[2]/div/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

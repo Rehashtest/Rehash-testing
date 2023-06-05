@@ -6,12 +6,12 @@
    <elementGuidId>97495904-6d0f-4f41-b52e-5e9fc1fd84fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Device Fuel'])[1]/following::*[name()='svg'][1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.field-select-responsive.input-field__indicator.field-select-responsive.input-field__dropdown-indicator.css-vgijm8-indicatorContainer > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
